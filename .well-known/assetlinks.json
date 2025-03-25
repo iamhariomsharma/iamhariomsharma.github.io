@@ -1,14 +1,9 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.nst.dhanam.qa",
-      "sha256_cert_fingerprints": [
-        "75:91:31:57:B6:EF:4C:66:14:FF:E3:FF:0F:2D:CC:E1:B0:8A:BF:51:BD:9E:DF:38:CC:87:FD:A0:E9:7C:19:AB"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nst.dhanam.qa",
+    "sha256_cert_fingerprints":
+    ["35:B4:35:8E:53:43:40:5A:38:D0:81:FE:C6:09:12:CE:5A:5A:EF:FD:01:3A:56:B4:FE:E3:FC:F9:FF:40:E9:B8"]
   }
-]
+}]
